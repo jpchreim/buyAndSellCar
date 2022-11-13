@@ -1,0 +1,27 @@
+body{
+    background-color: #EEEEEE;
+}
+
+.navbar:first-of-type{
+    background-color: #EEEEEE !important;
+    margin: 0 !important;
+}
+.title{
+    font-size: 2.25rem !important;
+}
+.nav-link{
+    font-size: 1.25rem;
+    color: #000000;
+    border-bottom: solid 3px #EEEEEE;
+}
+
+.nav-link:hover{
+    color: #000000;
+    border-bottom: solid 3px #CF0A0A ;
+}
+
+.carousel-item img{
+    aspect-ratio: 21/9;
+    object-fit: cover;
+}
+
